@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lokmart</string>
+    <string name="connection_error">Ulanishda xatolik</string>
+    <string name="error">Xatolik yuz berdi</string>
+    <string name="invalid_credentials">Login yoki Parol xato\n</string>
+    <string name="fragment_onboarding_next">Next</string>
+    <string name="onboarding_title_0">Welcome to LokMart!\nGrocery Applications</string>
+    <string name="onboarding_description_0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore</string>
+    <string name="onboarding_title_1">Best Quality and\nFast Delivery!</string>
+    <string name="onboarding_description_1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore</string>
+    <string name="fragment_onboarding_get_started">Get started\n</string>
+    <string name="fragment_sign_in_sign_up">Sign Up</string>
+    <string name="fragment_sign_in_no_account">Don\'t have an account?</string>
+    <string name="fragment_sign_in_forgot_password"><u>Forgot Password?</u></string>
+    <string name="fragment_sign_in_button">SIGN IN\n</string>
+    <string name="fragment_sign_in_password">Password</string>
+    <string name="fragment_sign_in_username">Username\n</string>
+    <string name="fragment_sign_in_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</string>
+    <string name="fragment_sign_in_title">Welcome back</string>
+    <string name="app_description">Grocery app</string>
+</resources>
